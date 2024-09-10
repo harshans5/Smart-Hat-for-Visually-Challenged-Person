@@ -23,7 +23,7 @@
 
 ## Design:-
 <p>
-  <img src="https://github.com/harshans5/Smart-Hat-for-Visually-Challenged-Person/blob/main/Images/reference%20design.png"/> 
+  <img src= "https://github.com/harshans5/Smart-Hat-for-Visually-Challenged-Person/blob/main/Setup%20and%20Outcome/reference%20design.png"/> 
 </p>
 
 ## Components Used
@@ -88,9 +88,12 @@ Make sure to replace `<repository_url>` and `<repository_name>` with your actual
 ## Result:
 <p>The Raspberry Pi-based Smart Hat effectively detects and identifies everyday objects and people using advanced image processing. It provides clear audio feedback and real-time performance with greatly improving situational awareness and safety. This project can create impactful assistive technology. Future improvements should focus on enhancing sensor integration, algorithm efficiency, and incorporating haptic feedback.</p>
 <p>
-  <img src="https://github.com/harshans5/Smart-Hat-for-Visually-Challenged-Person/blob/main/Images/Result-1.png"/> 
-  <img src="https://github.com/harshans5/Smart-Hat-for-Visually-Challenged-Person/blob/main/Images/Result-2.png"/> 
+
+<p align="center">
+  <img src="https://github.com/harshans5/Smart-Hat-for-Visually-Challenged-Person/blob/main/Setup%20and%20Outcome/Result-1.png" width="45%" />
+  <img src="https://github.com/harshans5/Smart-Hat-for-Visually-Challenged-Person/blob/main/Setup%20and%20Outcome/Result-2.png" width="45%" />
 </p>
+
 
 ## Under the Guidence:
 - [Prof.Ashwini A M](https://www.youtube.com/@AshwiniAM-012)

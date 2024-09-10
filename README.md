@@ -88,9 +88,8 @@ Make sure to replace `<repository_url>` and `<repository_name>` with your actual
 ## Result:
 <p>The Raspberry Pi-based Smart Hat effectively detects and identifies everyday objects and people using advanced image processing. It provides clear audio feedback and real-time performance with greatly improving situational awareness and safety. This project can create impactful assistive technology. Future improvements should focus on enhancing sensor integration, algorithm efficiency, and incorporating haptic feedback.</p>
 <p>
-  <img src="Images/ThingSpeak op1.png"/> 
-  <img src="Images/ThingSpeak op2.png"/> 
-  <img src="Images/ThingSpeak op3.png"/> 
+  <img src="https://github.com/harshans5/Smart-Hat-for-Visually-Challenged-Person/blob/main/Images/Result-1.png"/> 
+  <img src="https://github.com/harshans5/Smart-Hat-for-Visually-Challenged-Person/blob/main/Images/Result-2.png"/> 
 </p>
 
 ## Under the Guidence:
@@ -100,4 +99,4 @@ Make sure to replace `<repository_url>` and `<repository_name>` with your actual
 - [HARSHAN S](https://www.linkedin.com/in/harshan-s/)
 - [K SANTOSH](https://www.linkedin.com/in/k-santosh-102a73310/)
 - [MANOJ KUMAR C S](https://www.linkedin.com/in/manoj-kumar-c-s-a981a0254/)
-- [NAVEEN N P](https://www.instagram.com/_raghu_m_.46?igsh=MXNjNGcydG1vaWhiOQ==)
+- [NAVEEN N P](https://www.youtube.com/@naveen451)

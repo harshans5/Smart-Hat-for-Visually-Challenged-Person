@@ -98,7 +98,7 @@ Make sure to replace `<repository_url>` and `<repository_name>` with your actual
 ## Under the Guidence:
 - [Prof.Ashwini A M](https://www.youtube.com/@AshwiniAM-012)
 
-## Authors:
+## Team Members:
 - [HARSHAN S](https://www.linkedin.com/in/harshan-s/)
 - [K SANTOSH](https://www.linkedin.com/in/k-santosh-102a73310/)
 - [MANOJ KUMAR C S](https://www.linkedin.com/in/manoj-kumar-c-s-a981a0254/)
